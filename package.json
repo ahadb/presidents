@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "API for presidents and their portraits",
   "private": true,
+  "main": "server.js",
   "scripts": {
+    "start:server": "node server.js",
     "test": "node tests/index.js"
   },
   "license": "ISC",

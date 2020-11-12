@@ -1,9 +1,8 @@
-const fs = require('fs')
-const map = require('map-async')
-const path = require('path')
 const tape = require('tape')
 const request = require('request')
 const testUtils = require('./test-utils')
+
+// initial tests setup from file system for now till we persist from DB
 
 tape('should show json only on / route', function (t) {
   testUtils.testLocalFileServer('./server.js', function (err, origin, cb) {
@@ -19,7 +18,7 @@ tape('should show json only on / route', function (t) {
   })
 })
 
-tape('should accept query string params limit and offset on and return 200 OK on the given /presidents route', function (t) {
+tape('should accept query string params { limit, offset } and return 200 OK on the given /presidents route', function (t) {
   testUtils.testLocalFileServer('./server.js', function (err, origin, cb) {
     if (err) return t.error(err)
 
