@@ -1,0 +1,46 @@
+[
+  {
+    "presidentName": "Joe Biden",
+    "presidentElectedNumber": "46th",
+    "vicePresident": "Kamala Harris",
+    "precededBy": "Donald Trump",
+    "politicalParty": "Democrat",
+    "dateOfBirth": "November 20, 1942",
+    "inOffice": "Assuming office: January 20, 2021",
+    "imgThumb": "",
+    "img": ""
+  },
+  {
+    "presidentName": "Donald J. Trump",
+    "presidentElectedNumber": "45th",
+    "vicePresident": "Mike Pence",
+    "precededBy": "Barack Obama",
+    "politicalParty": "Republican",
+    "dateOfBirth": "June 14th, 1946",
+    "inOffice": "January 20, 2017 - Current",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/45-trump.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00607v.jpg"
+  },
+  {
+    "presidentName": "Barack Obama",
+    "presidentElectedNumber": "44th",
+    "vicePresident": "Joe Biden",
+    "precededBy": "George W. Bush",
+    "politicalParty": "Democrat",
+    "dateOfBirth": "August 4, 1961",
+    "inOffice": "January 20, 2009 – January 20, 2017",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/44-obama.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00300/00358v.jpg"
+  },
+  {
+    "presidentName": "George W. Bush",
+    "presidentElectedNumber": "43th",
+    "vicePresident": "Dick Cheney",
+    "precededBy": "Bill Clinton",
+    "politicalParty": "Republican",
+    "dateOfBirth": "July 06, 1946",
+    "inOffice": "January 20, 2001 – January 20, 2009",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/43-bush.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00300/00371v.jpg"
+  }
+]

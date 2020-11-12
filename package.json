@@ -1,0 +1,23 @@
+{
+  "name": "presidents",
+  "version": "1.0.0",
+  "description": "API for presidents and their portraits",
+  "private": true,
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "license": "ISC",
+  "author": "Ahad Bokhari",
+  "devDependencies": {
+    "getport": "^0.1.0",
+    "request": "^2.88.0",
+    "tape": "^4.9.1"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "cuid": "^2.1.6",
+    "validator": "^10.11.0",
+    "mongoose": "^5.5.4",
+    "body-parser": "^1.18.3"
+  }
+}
