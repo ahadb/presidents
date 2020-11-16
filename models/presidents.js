@@ -19,6 +19,7 @@ const President = db.model('President', {
 })
 
 module.exports = {
+  list,
   listAll,
   create,
   model: President
@@ -34,6 +35,16 @@ function urlSchema (opts = {}) {
       message: props => `${props.value} is not a valid URL`
     }
   }
+}
+
+async function list (id) {
+  const presidents = JSON.parse(await fs.readFile(presidentsFile))
+
+  for (let i = 0; i < presidents.length; i++) {
+    if (presidents[i]._id === id) return presidents[i]
+  }
+
+  return null
 }
 
 // @todo: change to read from DB

@@ -7,8 +7,8 @@
     "politicalParty": "Democrat",
     "dateOfBirth": "November 20, 1942",
     "inOffice": "Assuming office: January 20, 2021",
-    "imgThumb": "",
-    "img": ""
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/45-trump.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00607v.jpg"
   },
   {
     "presidentName": "Donald J. Trump",
@@ -42,5 +42,148 @@
     "inOffice": "January 20, 2001 – January 20, 2009",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/43-bush.jpg",
     "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00300/00371v.jpg"
+  },
+  {
+    "presidentName": "Bill Clinton",
+    "presidentElectedNumber": "42th",
+    "vicePresident": "Al Gore",
+    "precededBy": "George H. W. Bush",
+    "politicalParty": "Democrat",
+    "dateOfBirth": "August 19, 1946",
+    "inOffice": "January 20, 1993 – January 20, 2001",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/42-clinton.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07700/3c07700v.jpg"
+  },
+  {
+    "presidentName": "George H. W. Bush",
+    "presidentElectedNumber": "41st",
+    "vicePresident": "Dan Quayle",
+    "precededBy": "Ronald Reagan",
+    "politicalParty": "Republican",
+    "dateOfBirth": "June 12, 1924",
+    "inOffice": "January 20, 1989 – January 20, 1993",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/41-bush.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b46000/3b46100/3b46147v.jpg"
+  },
+  {
+    "presidentName": "Ronald Reagan",
+    "presidentElectedNumber": "40th",
+    "vicePresident": "George H. W. Bush",
+    "precededBy": "Jimmy Carter",
+    "politicalParty": "Republican",
+    "dateOfBirth": "January 2, 1967 – January 6, 1975",
+    "inOffice": "January 20, 1981 – January 20, 1989",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/40-reagan.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53308v.jpg"
+  },
+  {
+    "presidentName": "Jimmy Carter",
+    "presidentElectedNumber": "39th",
+    "vicePresident": "Walter Mondale",
+    "precededBy": "Gerald Ford",
+    "politicalParty": "Democrat",
+    "dateOfBirth": "October 1, 1924",
+    "inOffice": "January 20, 1977 – January 20, 1981",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/39-carter.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b52000/3b52000/3b52090r.jpg"
+  },
+  {
+    "presidentName": "Gerald Ford",
+    "presidentElectedNumber": "38th",
+    "vicePresident": "Spiro Agnew, Gerald Ford",
+    "precededBy": "Richard Nixon",
+    "politicalParty": "Republican",
+    "dateOfBirth": "July 14, 1913",
+    "inOffice": "August 9, 1974 – January 20, 1977",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/38-ford.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53306v.jpg"
+  },
+  {
+    "presidentName": "Richard Nixon",
+    "presidentElectedNumber": "37th",
+    "vicePresident": "Nelson Rockefeller",
+    "precededBy": "Lyndon B. Johnson",
+    "politicalParty": "Republican",
+    "dateOfBirth": "January 9, 1913",
+    "inOffice": "January 20, 1969 – August 9, 1974",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/37-nixon.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/02800/02800v.jpg"
+  },
+  {
+    "presidentName": "Lydon B. Johnson",
+    "presidentElectedNumber": "36th",
+    "vicePresident": "Hubert Humphrey",
+    "precededBy": "John F. Kennedy",
+    "politicalParty": "Republican",
+    "dateOfBirth": "August 27, 1908",
+    "inOffice": "November 22, 1963 – January 20, 1969",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/36-johnson.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53305v.jpg"
+  },
+  {
+    "presidentName": "John F. Kennedy",
+    "presidentElectedNumber": "35th",
+    "vicePresident": "Lyndon B. Johnson",
+    "precededBy": "Dwight D. Eisenhower",
+    "politicalParty": "Democrat",
+    "dateOfBirth": "May 29, 1917",
+    "inOffice": "January 20, 1961 – November 22, 1963",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/35-kennedy.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38600/38698v.jpg"
+  },
+  {
+    "presidentName": "Dwight D. Eisenhower",
+    "presidentElectedNumber": "34th",
+    "vicePresident": "Richard Nixon",
+    "precededBy": "Dwight D. Eisenhower",
+    "politicalParty": "Republican",
+    "dateOfBirth": "October 14, 1890",
+    "inOffice": "January 20, 1953 – January 20, 1961",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/34-eisenhower.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17123v.jpg"
+  },
+  {
+    "presidentName": "Harry S. Truman",
+    "presidentElectedNumber": "33th",
+    "vicePresident": "Alben W. Barkley",
+    "precededBy": "Franklin D. Roosevelt",
+    "politicalParty": "Republican",
+    "dateOfBirth": "May 8, 1884",
+    "inOffice": "April 12, 1945 – January 20, 1953",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/33-truman.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17122v.jpg"
+  },
+  {
+    "presidentName": "Franklin D. Roosevelt",
+    "presidentElectedNumber": "32th",
+    "vicePresident": "Henry A. Wallace",
+    "precededBy": "Herbert Hoover",
+    "politicalParty": "Democrat",
+    "dateOfBirth": "January 30, 1882",
+    "inOffice": "March 4, 1933 – April 12, 1945",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/32-roosevelt.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17121v.jpg"
+  },
+  {
+    "presidentName": "Herbert Hoover",
+    "presidentElectedNumber": "31st",
+    "vicePresident": "Charles Curtis",
+    "precededBy": "Calvin Coolidge",
+    "politicalParty": "Republican",
+    "dateOfBirth": "August 10, 1874",
+    "inOffice": "March 4, 1929 – March 4, 1933",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/31-hoover.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a25000/3a25100/3a25105v.jpg"
+  },
+  {
+    "presidentName": "Calvin Coolidge",
+    "presidentElectedNumber": "30th",
+    "vicePresident": "Charles G. Dawes",
+    "precededBy": "Warren G. Harding",
+    "politicalParty": "Republican",
+    "dateOfBirth": "July 4, 1872",
+    "inOffice": "August 2, 1923 – March 4, 1929",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/30-coolidge.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53302v.jpg"
   }
 ]

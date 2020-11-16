@@ -1,8 +1,20 @@
 const Presidents = require('./models/presidents')
 
 module.exports = {
+  listPresident,
   listPresidents,
   index
+}
+
+async function listPresident (req, res) {
+  const { id } = req.params
+
+  try {
+    const president = await Presidents.list(id)
+    res.json(president)
+  } catch (err) {
+    res.status(500).json({ error: err.message })
+  }
 }
 
 async function listPresidents (req, res) {
