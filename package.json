@@ -5,15 +5,17 @@
   "private": true,
   "main": "server.js",
   "scripts": {
-    "start:server": "node server.js",
-    "test": "node tests/index.js"
+    "start:server": "nodemon server.js",
+    "test": "node tests/test.js"
   },
   "license": "ISC",
   "author": "Ahad Bokhari",
   "devDependencies": {
     "getport": "^0.1.0",
     "request": "^2.88.0",
-    "tape": "^4.9.1"
+    "tape": "^4.9.1",
+    "nodemon": "^2.0.6",
+    "get-port-sync": "^1.0.0"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
