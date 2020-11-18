@@ -8,6 +8,7 @@ fully open sourced and deployed soon.
 Our API is serving from the file system to get things working for a quick phase 1.
 
 - [x] Improve testing capabilities
+- [ ] Add CLI capabilities
 - [ Working ] Scaffold appropriate data with fields for images, desc, etc and port from JSON file
 - [ ] Remove initial persistence from files to server
 - [ Working ] Import data to MongoDB and query data from models appropriately
