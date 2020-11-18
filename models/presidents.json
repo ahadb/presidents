@@ -185,5 +185,60 @@
     "inOffice": "August 2, 1923 – March 4, 1929",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/30-coolidge.jpg",
     "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53302v.jpg"
+  },
+  {
+    "presidentName": "Warren G. Harding",
+    "presidentElectedNumber": "29th",
+    "vicePresident": "Calvin Coolidge",
+    "precededBy": "Woodrow Wilson",
+    "politicalParty": "Republican",
+    "dateOfBirth": "November 2, 1865",
+    "inOffice": "March 4, 1921 – August 2, 1923",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/29-harding.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53301v.jpg"
+  },
+  {
+    "presidentName": "Woodrow Wilson",
+    "presidentElectedNumber": "28th",
+    "vicePresident": "Thomas R. Marshall",
+    "precededBy": "William Howard Taft",
+    "politicalParty": "Democrat",
+    "dateOfBirth": "December 28, 1856",
+    "inOffice": "March 4, 1913 – March 4, 1921",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/28-wilson.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a55000/3a55000/3a55007v.jpg"
+  },
+  {
+    "presidentName": "William Howard Taft",
+    "presidentElectedNumber": "27th",
+    "vicePresident": "James S. Sherman",
+    "precededBy": "Theodore Roosevelt",
+    "politicalParty": "Republican",
+    "dateOfBirth": "September 15, 1857",
+    "inOffice": "March 4, 1909 – March 4, 1913",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/27-taft.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53300v.jpg"
+  },
+  {
+    "presidentName": "Theodore Roosevelt",
+    "presidentElectedNumber": "26th",
+    "vicePresident": "Charles W. Fairbanks",
+    "precededBy": "William McKinley",
+    "politicalParty": "Republican",
+    "dateOfBirth": "October 27, 1858",
+    "inOffice": "September 14, 1901 – March 4, 1909",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/26-roosevelt.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53299r.jpg"
+  },
+  {
+    "presidentName": "William McKinley",
+    "presidentElectedNumber": "25th",
+    "vicePresident": "Garret Hobart",
+    "precededBy": "Grover Cleveland",
+    "politicalParty": "Republican",
+    "dateOfBirth": "January 29, 1843",
+    "inOffice": "March 4, 1897 – September 14, 1901",
+    "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/25-mckinley.jpg",
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a10000/3a10800/3a10814v.jpg"
   }
 ]
