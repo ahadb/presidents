@@ -1,14 +1,11 @@
 const cuid = require('cuid')
 const { isURL } = require('validator')
-const fs = require('fs').promises
-const path = require('path')
-
 
 const db = require('../db')
-const presidentsFile = path.join(__dirname, './presidents.json')
 
 const President = db.model('President', {
   _id: { type: String, default: cuid },
+  presidentName: { type: String, required: true},
   presidentElectedNumber: { type: String, required: true },
   vicePresident: { type: String, required: true},
   precededBy: { type: String, required: true},
@@ -25,6 +22,27 @@ module.exports = {
   model: President
 }
 
+async function listAll (opts = {}) {
+  const { offset = 0, limit = 25, sort = 1} = opts
+
+  const presidents = await President.find()
+      .sort(sort === 1 ? {_id: 1} : {_id: -1})
+      .skip(offset)
+      .limit(limit)
+
+  return presidents
+}
+
+async function list (_id) {
+  const president = await President.findById(_id)
+  return president
+}
+
+async function create (fields) {
+  const president = await new President(fields).save()
+  return president
+}
+
 function urlSchema (opts = {}) {
   const { required } = opts
   return {
@@ -37,26 +55,4 @@ function urlSchema (opts = {}) {
   }
 }
 
-async function list (id) {
-  const presidents = JSON.parse(await fs.readFile(presidentsFile))
-
-  for (let i = 0; i < presidents.length; i++) {
-    if (presidents[i]._id === id) return presidents[i]
-  }
-
-  return null
-}
-
-// @todo: change to read from DB
-async function listAll (opts = {}) {
-  const { offset = 0, limit = 25 } = opts
-
-  const data = await fs.readFile(presidentsFile)
-  return JSON.parse(data).slice(offset, offset + limit)
-}
-
-async function create (fields) {
-  const president = await new President(fields).save()
-  return president
-}
 

@@ -10,10 +10,10 @@ Our API is serving from the file system to get things working for a quick phase 
 - [x] Improve testing capabilities
 - [ ] Add CLI capabilities
 - [x] Scaffold appropriate data with fields for images, desc, etc and port from JSON file
-- [ ] Remove initial persistence from files to server
-- [ Working ] Import data to MongoDB and query data from models appropriately
+- [x] Remove initial persistence from files to server
+- [x] Import data to MongoDB and query data from models appropriately
 - [x] Add sub-routes, etc: `:id`
-- [ ] Split routes depending on deterministic review of what we want to expose
+- [x] Split routes depending on deterministic review of what we want to expose
 - [ ] Add Auth if needed
 - [ ] Deploy instance
 

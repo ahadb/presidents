@@ -18,12 +18,13 @@ async function listPresident (req, res) {
 }
 
 async function listPresidents (req, res) {
-  const { offset = 0, limit = 25 } = req.query
+  const { offset = 0, limit = 25, sort = 1 } = req.query
 
   try {
     res.json(await Presidents.listAll({
       offset: Number(offset),
       limit: Number(limit),
+      sort: Number(sort)
     }))
   } catch (err) {
     res.status(500).json({ error: err.message })
