@@ -1,0 +1,152 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "Presidents API",
+    "description": "An API to get current presidents and their portraits",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "host": "localhost:1337",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "Presidents",
+      "description": "API for presidents in the system"
+    }
+  ],
+  "schemes": [
+    "http"
+  ],
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "paths": {
+    "/presidents": {
+      "get": {
+        "tags": [
+          "Presidents"
+        ],
+        "summary": "Get all presidents in system",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/Presidents"
+            }
+          }
+        }
+      }
+    },
+    "/presidents/{id}": {
+      "get": {
+        "tags": [
+          "Presidents"
+        ],
+        "summary": "Get presidents by id in system",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/PresidentsById"
+            }
+          }
+        },
+      "parameters": [
+        {
+          "in": "path",
+          "name": "id",
+          "schema": {
+            "type": "string"
+          }
+        }
+      ]
+      }
+    }
+  },
+  "definitions": {
+    "Presidents": {
+      "required": [
+        "_id",
+        "presidentName",
+        "presidentElectedNumber",
+        "vicePresident",
+        "precededBy",
+        "politicalParty",
+        "dateOfBirth",
+        "imgThumb",
+        "img"
+      ],
+      "properties": {
+        "_id": {
+          "type": "string",
+          "uniqueItems": true
+        },
+        "presidentName": {
+          "type": "string"
+        },
+        "presidentElectedNumber": {
+          "type": "string"
+        },
+        "vicePresident": {
+          "type": "string"
+        },
+        "precededBy": {
+          "type": "string"
+        },
+        "politicalParty": {
+          "type": "string"
+        },
+        "dateOfBirth": {
+          "type": "string"
+        },
+        "imgThumb": {
+          "type": "string"
+        },
+        "img": {
+          "type": "string"
+        }
+      }
+    },
+    "PresidentsById": {
+      "required": [
+        "id"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "uniqueItems": true
+        },
+        "presidentName": {
+          "type": "string"
+        },
+        "presidentElectedNumber": {
+          "type": "string"
+        },
+        "vicePresident": {
+          "type": "string"
+        },
+        "precededBy": {
+          "type": "string"
+        },
+        "politicalParty": {
+          "type": "string"
+        },
+        "dateOfBirth": {
+          "type": "string"
+        },
+        "imgThumb": {
+          "type": "string"
+        },
+        "img": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

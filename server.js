@@ -2,6 +2,8 @@ const express = require('express')
 const fs = require("fs")
 const path = require('path')
 const morgan = require('morgan')
+const swaggerUI = require('swagger-ui-express'),
+swaggerDocument = require('./swagger.json');
 
 const api = require('./api')
 const middleware = require('./middleware/middleware')
@@ -15,6 +17,7 @@ app.use(middleware.cors)
 app.get('/', api.index)
 app.get('/presidents', api.listPresidents)
 app.get('/presidents/:id', api.listPresident)
+app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerDocument))
 // app.get('./presidents:id', api.listPresidentById)
 app.use(middleware.handleError)
 app.use(middleware.notFound)
