@@ -3,7 +3,7 @@
 An API that exposes all U.S. presidents and their portraits. Fun project in the spirit of elections - you can use this API at your will, help add to it, make it your 
 own or deploy it. You have all the tools necessary to import your data to Mongo, Swagger client etc, good level of unit testing.
 
-## Todos
+## Roadmap
 
 - [x] Improve testing capabilities
 - [x] Add Swagger Client
