@@ -72,6 +72,20 @@ tape('should list all presidents with offset', function (t) {
   })
 })
 
+tape('should list all presidents with democrat filter', function (t) {
+  client.listPresidents({ tag: 'democrat', limit: 5 }, function (err, presidents) {
+    if (err) t.error('should not error')
+
+    t.equal(presidents.length, 5, 'number of presidents should match')
+
+    const sets = presidents.map(x => x.tags)
+
+    sets.forEach(y => t.ok(y.indexOf('democrat') > -1, 'should have selected democrat' ))
+
+    t.end()
+  })
+})
+
 tape('should list presidents with ascending sort order', function (t) {
   client.listPresidents({sort: 1}, function (err, presidents) {
     if (err) t.error('should not error')
