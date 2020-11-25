@@ -8,7 +8,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "November 20, 1942",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/45-trump.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00607v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00607v.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgs9f00010lzrdjm5arl8",
@@ -19,7 +22,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "June 14th, 1946",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/45-trump.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00607v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00607v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgs9i00020lzrd2ts9bi5",
@@ -30,7 +36,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "August 4, 1961",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/44-obama.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00300/00358v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00300/00358v.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgs9l00030lzr70uhe7y5",
@@ -41,7 +50,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "July 06, 1946",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/43-bush.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00300/00371v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00300/00371v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgs9n00040lzr08ehh853",
@@ -52,7 +64,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "August 19, 1946",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/42-clinton.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07700/3c07700v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07700/3c07700v.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgs9p00050lzr4mm22dgo",
@@ -63,7 +78,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "June 12, 1924",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/41-bush.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b46000/3b46100/3b46147v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b46000/3b46100/3b46147v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgs9s00060lzref3fahpw",
@@ -74,7 +92,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "January 2, 1967 – January 6, 1975",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/40-reagan.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53308v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53308v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgs9v00070lzrh4mhf7lr",
@@ -85,7 +106,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "October 1, 1924",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/39-carter.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b52000/3b52000/3b52090r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b52000/3b52000/3b52090r.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgs9y00080lzrdktn1hej",
@@ -96,7 +120,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "July 14, 1913",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/38-ford.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53306v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53306v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsa100090lzrcy5z8yzw",
@@ -107,7 +134,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "January 9, 1913",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/37-nixon.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/02800/02800v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/02800/02800v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsa5000a0lzrddqlg04h",
@@ -118,7 +148,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "August 27, 1908",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/36-johnson.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53305v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53305v.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgsa9000b0lzr7nrehk6a",
@@ -129,7 +162,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "May 29, 1917",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/35-kennedy.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38600/38698v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38600/38698v.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgsaf000c0lzr6yy40rty",
@@ -140,7 +176,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "October 14, 1890",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/34-eisenhower.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17123v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17123v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsaj000d0lzr2vwza41i",
@@ -151,7 +190,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "May 8, 1884",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/33-truman.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17122v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17122v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsan000e0lzr2wkzgovl",
@@ -162,7 +204,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "January 30, 1882",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/32-roosevelt.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17121v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17121v.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgsar000f0lzrhwsq1ij8",
@@ -173,7 +218,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "August 10, 1874",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/31-hoover.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a25000/3a25100/3a25105v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a25000/3a25100/3a25105v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsav000g0lzr7wjh790z",
@@ -184,7 +232,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "July 4, 1872",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/30-coolidge.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53302v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53302v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsb2000h0lzr14by8z3r",
@@ -195,7 +246,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "November 2, 1865",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/29-harding.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53301v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53301v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsb7000i0lzr4sakhswr",
@@ -217,7 +271,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "September 15, 1857",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/27-taft.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53300v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53300v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsbj000k0lzr5x1id6hp",
@@ -228,7 +285,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "October 27, 1858",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/26-roosevelt.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53299r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53299r.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsbo000l0lzr3cbwgkz0",
@@ -239,7 +299,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "January 29, 1843",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/25-mckinley.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a10000/3a10800/3a10814v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a10000/3a10800/3a10814v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsbt000m0lzrc8g6h5dg",
@@ -250,7 +313,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "August 20, 1833",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/23-harrison.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a10000/3a10200/3a10254v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a10000/3a10200/3a10254v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsbz000n0lzr1w4g4ya3",
@@ -261,7 +327,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "March 18, 1837",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/22-24-cleveland.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b37000/3b37800/3b37829r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b37000/3b37800/3b37829r.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgsc3000o0lzrhm4ocr7z",
@@ -272,7 +341,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "October 5, 1829",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/21-arthur.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53294v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53294v.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsc8000p0lzrfqp63ids",
@@ -283,7 +355,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "November 19, 1831",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/20-garfield.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53293r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53293r.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsce000q0lzrcy6e995h",
@@ -294,7 +369,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "October 4, 1822",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/19-hayes.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53292r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53292r.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgsch000r0lzrd3qv1303",
@@ -305,7 +383,10 @@
     "politicalParty": "Republican",
     "dateOfBirth": "April 27, 1822",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/18-grant.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a05000/3a05500/3a05520r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a05000/3a05500/3a05520r.jpg",
+    "tags": [
+      "republican"
+    ]
   },
   {
     "_id": "ckhqkgscl000s0lzrfahnh6id",
@@ -316,7 +397,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "December 29, 1808",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/17-johnson.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53290r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53290r.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgscs000t0lzr6b3khokf",
@@ -327,7 +411,10 @@
     "politicalParty": "National Union Party",
     "dateOfBirth": "December 29, 1808",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/16-lincoln.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19300/19301v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19300/19301v.jpg",
+    "tags": [
+      "national-union"
+    ]
   },
   {
     "_id": "ckhqkgscv000u0lzrfzu1d6cl",
@@ -338,7 +425,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "April 23, 1791",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/15-buchanan.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42400/3b42465v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42400/3b42465v.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgsd5000v0lzr5r9s0mk4",
@@ -349,7 +439,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "November 23, 1804",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/14-pierce.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53287r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53287r.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgsde000w0lzr9oee6sh5",
@@ -360,7 +453,10 @@
     "politicalParty": "Know Nothing",
     "dateOfBirth": "January 7, 1800",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/13-fillmore.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53286r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53286r.jpg",
+    "tags": [
+      "know-nothing"
+    ]
   },
   {
     "_id": "ckhqkgsdk000x0lzr3zp395yu",
@@ -371,7 +467,10 @@
     "politicalParty": "Whig",
     "dateOfBirth": "November 24, 1784",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/12-taylor.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c10000/3c10000/3c10067v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c10000/3c10000/3c10067v.jpg",
+    "tags": [
+      "whig"
+    ]
   },
   {
     "_id": "ckhqkgsdo000y0lzr8v0jaf70",
@@ -382,7 +481,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "November 2, 1795",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/11-polk.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53285r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53285r.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgsdt000z0lzrekqohqsr",
@@ -393,7 +495,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "March 29, 1790",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/10-tyler.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53283r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53283r.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgsdw00100lzr117z5eig",
@@ -404,7 +509,10 @@
     "politicalParty": "Democratic-Republican",
     "dateOfBirth": "February 9, 1773",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/09-harrison.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53386v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53386v.jpg",
+    "tags": [
+      "democrat-republican"
+    ]
   },
   {
     "_id": "ckhqkgsdz00110lzr4oahdkan",
@@ -415,7 +523,10 @@
     "politicalParty": "Democratic",
     "dateOfBirth": "December 5, 1782",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/08-van-buren.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53386v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53300/3a53386v.jpg",
+    "tags": [
+      "democrat"
+    ]
   },
   {
     "_id": "ckhqkgse500120lzr6dgf1l5e",
@@ -426,7 +537,10 @@
     "politicalParty": "Democratic-Republican",
     "dateOfBirth": "March 15, 1767",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/07-jackson.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17120v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17120v.jpg",
+    "tags": [
+      "democrat-republican"
+    ]
   },
   {
     "_id": "ckhqkgseb00130lzre2kg602a",
@@ -437,7 +551,10 @@
     "politicalParty": "Whig",
     "dateOfBirth": "July 11, 1767",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/06-adams.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17119v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17119v.jpg",
+    "tags": [
+      "whig"
+    ]
   },
   {
     "_id": "ckhqkgsee00140lzr7y3d0v4y",
@@ -448,7 +565,10 @@
     "politicalParty": "Democratic-Republican",
     "dateOfBirth": "April 28, 1758",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/05-monroe.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17118v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c17000/3c17100/3c17118v.jpg",
+    "tags": [
+      "democrat-republican"
+    ]
   },
   {
     "_id": "ckhqkgsen00150lzr2ir68xk5",
@@ -459,7 +579,10 @@
     "politicalParty": "Democratic-Republican",
     "dateOfBirth": "March 16, 1751",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/04-madison.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19100/19166v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19100/19166v.jpg",
+    "tags": [
+      "democrat-republican"
+    ]
   },
   {
     "_id": "ckhqkgseu00160lzr6ndthf4k",
@@ -470,7 +593,10 @@
     "politicalParty": "Democratic-Republican",
     "dateOfBirth": "April 13, 1743",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/03-jefferson.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19100/19166v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19100/19166v.jpg",
+    "tags": [
+      "democrat-republican"
+    ]
   },
   {
     "_id": "ckhqkgsf900170lzr29c7czq8",
@@ -481,7 +607,10 @@
     "politicalParty": "Democratic-Republican",
     "dateOfBirth": "October 30, 1735",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/02-adams.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53276r.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a53000/3a53200/3a53276r.jpg",
+    "tags": [
+      "democrat-republican"
+    ]
   },
   {
     "_id": "ckhqkgsfi00180lzre5l87l90",
@@ -492,6 +621,9 @@
     "politicalParty": "Independent",
     "dateOfBirth": "February 22, 1732",
     "imgThumb": "https://www.loc.gov/static/portals/free-to-use/public-domain/presidential-portraits/01-washington.jpg",
-    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a09000/3a09900/3a09915v.jpg"
+    "img": "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a09000/3a09900/3a09915v.jpg",
+    "tags": [
+      "independent"
+    ]
   }
 ]

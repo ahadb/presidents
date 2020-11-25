@@ -13,6 +13,7 @@ const President = db.model('President', {
   dateOfBirth: { type: String, required: true},
   imgThumb: urlSchema({ required: true }),
   img: urlSchema({ required: true }),
+  tags: { type: Array, required: true}
 })
 
 module.exports = {
@@ -23,9 +24,10 @@ module.exports = {
 }
 
 async function listAll (opts = {}) {
-  const { offset = 0, limit = 25, sort = 1} = opts
+  const { offset = 0, limit = 25, sort = 1, tag} = opts
+  const query = tag ? { tags: tag } : {}
 
-  const presidents = await President.find()
+  const presidents = await President.find(query)
       .sort(sort === 1 ? {_id: 1} : {_id: -1})
       .skip(offset)
       .limit(limit)
