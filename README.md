@@ -3,20 +3,6 @@
 An API that exposes all U.S. presidents and their portraits. Fun project in the spirit of elections - you can use this API at your will, help add to it, make it your 
 own or deploy it. You have all the tools necessary to import your data to Mongo, Swagger client etc, good level of unit testing.
 
-## Roadmap
-
-- [x] Improve testing capabilities
-- [x] Add Swagger Client
-- [ ] Add CLI capabilities
-- [x] Scaffold appropriate data with fields for images, desc, etc and port from JSON file
-- [x] Remove initial persistence from files to server
-- [x] Import data to MongoDB and query data from models appropriately
-- [x] Add sub-routes, etc: `:id`
-- [x] Split routes depending on deterministic review of what we want to expose
-- [ ] Add Auth for admin routes that do CRUD
-- [ ] Add PUT, POST routes for admin to add items
-- [ ] Deploy instance
-
 
 ## Usage
 
@@ -90,6 +76,20 @@ Model
   "img": "string"
 }
 ```
+
+## Roadmap
+
+- [x] Improve testing capabilities
+- [x] Add Swagger Client
+- [ ] Add CLI capabilities
+- [x] Scaffold appropriate data with fields for images, desc, etc and port from JSON file
+- [x] Remove initial persistence from files to server
+- [x] Import data to MongoDB and query data from models appropriately
+- [x] Add sub-routes, etc: `:id`
+- [x] Split routes depending on deterministic review of what we want to expose
+- [ ] Add Auth for admin routes that do CRUD
+- [ ] Add PUT, POST routes for admin to add items
+- [ ] Deploy instance
 
 ## Thanks To
 
